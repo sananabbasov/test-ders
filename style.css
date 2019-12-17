@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sol ul {
+    list-style: none;
+    font-size: 26px;
+    color: #ffff;
+}
+
+.sol ul li {
+    margin-bottom: 25px;
+}
+
+.sol {
+    width: 50%;
+    padding: 60px;
+    background-color: #1da1f2;
+    height: 100vh;
+    padding: 260px 100px;
+    float: left;
+}
+
+.sag {
+    float: left;
+    width: 50%;
+    padding: 200px 150px;
+}
+
+.sag .sekil {
+    width: 12%;
+    float: left;
+}
+
+.sag .sekil img {
+    width: 100%;
+}
+
+.sag p {
+    margin-top: 30px;
+}
+
+.sag .mybtn {
+    padding: 12px 10px;
+    border-radius: 15px;
+    border: 1px solid #1da1f2;
+    background: transparent;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.sag h2 {
+    font-size: 2.1em;
+}
+
+.sag .mybtn2 {
+    padding: 8px 15px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #1da1f2;
+    color: #ffff;
+    border: none;
+    border-radius: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.sag .mybtn2:hover {
+    background: #0a5385;
+}
+
+.sag .mybtn2:last-child {
+    background: transparent;
+    color: #1da1f2;
+    border: 1px solid #1da1f2;
+}
+
+.footer li {
+    list-style: none;
+    float: left;
+    padding: 7px 15px;
+    color: #050505;
+}
